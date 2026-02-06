@@ -1,6 +1,6 @@
 # First Project in C++ with SFML(3.0DLL)
 
-This is my first C++ project, a small racing car game built using the SF
+This is my first C++ project, a small racing car game built using the SFML libraries.
 Made a rectangular box car with help of SFML library 
 Gave basic speed a constant value of float and also added speed up value when W key will be pressed
 Created various function storing
